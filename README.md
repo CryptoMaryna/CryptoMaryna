@@ -1,4 +1,10 @@
 ## Hi there 👋
+I am Marina -
+
+Growth specialist 📈 passionate about innovative tech, privacy and decentralization 👩🏻‍💻 
+
+🔭 I’m currently working on bringing decentralized storage to masses at [codex.sr](https://codex.storage) ( part of https://free.technology ) to defend against data censorship. 
+🌱 I’m alo currently learning how to become a decent validator 😄
 
 <!--
 **CryptoMaryna/CryptoMaryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
