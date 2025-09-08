@@ -3,7 +3,7 @@ I am Marina
 
 Growth specialist 📈 passionate about innovative tech, privacy and decentralization 👩🏻‍💻 
 
-Core contributor at [logos.sr]([https://logos.co]), [codex.sr](https://codex.storage) , [IFT](https://free.technology) . 
+Core contributor at [Logos.sr](https://logos.co), [Codex.sr](https://codex.storage) , [IFT](https://free.technology) . 
 
 
 Let's connect --> [my X](https://x.com/Crypto_marina)
