@@ -3,11 +3,10 @@ I am Marina
 
 Growth specialist 📈 passionate about innovative tech, privacy and decentralization 👩🏻‍💻 
 
-🔭 I’m currently working on bringing decentralized storage to masses at [codex.sr](https://codex.storage) ( part of https://free.technology ) to defend against data censorship and protect our privacy rights. 
+Core contributor at [logos.sr]([https://logos.co]), [codex.sr](https://codex.storage) , [IFT](https://free.technology) . 
 
-🌱 I’m alo currently learning how to become a decent validator 😄
 
-Let's connect! 
+Let's connect --> [my X](https://x.com/Crypto_marina)
 
 <!--
 **CryptoMaryna/CryptoMaryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
